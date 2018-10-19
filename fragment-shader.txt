@@ -1,4 +1,5 @@
 <script id="fragmentShader" type="x-shader/x-vertex">
+
    varying vec2 vUv;
 
    void main() {
